@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+/networks/
+/report/
+/tensorflow_macos/
+train_data.txt
